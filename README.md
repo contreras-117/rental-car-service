@@ -1,3 +1,6 @@
-# ATA-Learn-And-Be-Curious-Project
+This is a Rental Car Service application
 
-Follow the instructions in the course for completing the group LBC project.
+It's functionality allows for a GET, PUT, POST, and DELETE requests
+
+PROBLEM STATEMENT:
+As the number of rental vehicles expand, the business needs a more efficient way to keep track of what cars are rented. Our business needs to keep track of car details such as the car year, model, make, and rental status, so we know if the car is available for rent
